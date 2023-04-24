@@ -1,0 +1,10 @@
+h1 {
+  color: white;
+  text-shadow: 5px 5px 0 black;
+  font-family: "Press Start 2P", cursive;
+}
+
+.section-name {
+  font-size: 40px;
+  color: #ff005a;
+}
