@@ -2,15 +2,5 @@
   background-color: #ff005a;
   border-bottom: 10px solid #3d182b;
   padding-top: 50px;
-  padding-left: 100px;
-}
-
-.skills {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  column-count: 2;
-}
-.skills .subtitle {
-  font-size: 25px;
+  padding-bottom: 100px;
 }

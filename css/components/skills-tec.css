@@ -1,0 +1,17 @@
+.skills-tec {
+  font-family: "Press Start 2P", cursive;
+  font-size: 25px;
+  color: white;
+  display: flex;
+}
+
+.skills-tec .icon {
+  margin-right: 20px;
+  align-self: center;
+}
+
+.skills-tec .right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
